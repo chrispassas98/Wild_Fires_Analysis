@@ -4,7 +4,7 @@
 
 ## Project Overview
 This project analyzes recent forest fire data from Greece, Italy, Israel and Tunisia, based on satellite hotspots information provided by NASA. The data encompasses detailed measurements from three separate satellites, offering insights into the characteristics and impact of these fires.
-
+NOTE: The project is not finished.
 ## Data Source
 
 MODIS C6.1: Moderate Resolution Imaging Spectroradiometer
