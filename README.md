@@ -1,4 +1,7 @@
 # Wild Fires Analysis(Greece, Italy, Israel, Tunisia)
+
+![Wild Fires Analysis Map](https://github.com/chrispassas98/Wild_Fires_Analysis/blob/main/photo/wild_fires.jpg?raw=true)
+
 ## Project Overview
 This project analyzes recent forest fire data from Greece, Italy, Israel and Tunisia, based on satellite hotspots information provided by NASA. The data encompasses detailed measurements from three separate satellites, offering insights into the characteristics and impact of these fires.
 
